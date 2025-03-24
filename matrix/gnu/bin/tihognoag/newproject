@@ -1,0 +1,12 @@
+New Project!
+Have Meta Rayban glasses? (probably not... but if so, this is for you!) I've made a project that allows you to directly send images to an AI, and get back a response, all from your glasses^! This is a version 0.0.1, which means I'll be working on a full rewrite to use Playwright very soon which will improve speed, add support for voice commands, allow for better prompting, and more!
+
+https://github.com/Cattn/meta-vision-glasses
+
+If you need help installing or using, refer to the readme first, then feel free to ask me!
+
+^ Some message will be read as "too long" and you may need to use your phone to read the full message
+
+** Also, this does require an OpenAI API Key, but I promise you, this project uses a few cents per day of usage, it's very much worth it (and you can usually get free credit).
+@Announcements 
+

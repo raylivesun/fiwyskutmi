@@ -1,0 +1,3 @@
+Sin(8)+Cosh(4)-x/Sqrt(x+y^23)+Cosh^(-1/x-y)+Sin^(-1/x-y)+Acosh(x+y^23)+Cosh(x+y/2);
+Cosh(8+4)-Sin(x/Sqrt(x+y^23))+Sin(Cosh-(1+Div(x, y)))+Cosh(Acosh(x+y^23))+Div(x+y/2);
+Div(x,y)/x^y+Gcd(x^y)/Sqrt(Lcm(x+y)+Acosh(x+y^23))+Mod(x+y/y);

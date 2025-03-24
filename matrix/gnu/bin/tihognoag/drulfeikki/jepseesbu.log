@@ -1,0 +1,39 @@
+New BIOS Options - Updated ⁠🚧｜bcd-edits & more
+One of the new option should only be used, if the x1_1, x1_2 & x1_3 slots arent in use (search for your mobo docs, if you're unsure):
+Image
+Further Updates:
+Updated ⁠🚧｜bcd-edits 
+Removed useless bcdedits
+Added all used docs
+Added more commands
+Added more to ⁠📚｜info-docs & ⁠📚｜bios-docs
+...
+Noxihu — Yesterday at 11:35 AM
+@📰｜Changelog 
+
+⁠┏🌱｜nvidia-tool Updated
+Removed 'nvidia-tweaks' channel, as the tool includes it.
+
+What does it contain?
+Automated driver debloat
+You have to enter the path to the driver you want to debloat
+Includes option for DDU
+Restarts into safe mode & predefined DDU settings
+Debloated driver installation
+More tweaks (from libraries, ⁠┗🧮｜nvidia-values etc.)
+Disable HDCP
+Disable dynamic p-states
+Disable ECC support
+Hide NVIDIA Tray Icon
+Disable NVIDIA HD powersavings
+Disable NVIDIA display powersavings
+Disable write combining
+Disable logging
+Disable DLLS indicator
+Disable preemption
+Disable timeout detection and recovery
+Disable unified virtual memory
+Display container
+Import NPI profile ( ⁠┣📗｜nvidia-panel )
+
+Removed deprecated tweaks, added more to option '4', NPI profile import now works differently (should fix previous issues), some other UI changes & all used info/docs got added to the channel content.
