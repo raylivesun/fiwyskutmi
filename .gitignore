@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fyskum
+fyskum.so
+fyskum.dylib
+fyskum.dll
+fyskum.a
+fyskum.lib
+fyskum-test-*
+*.exe
+*.o
+*.obj
+*.lst
